@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71" height="71" viewBox="0 0 71 71"><defs><style>.a{fill:#ff7c29;}.b{fill:#fff;}.c{fill:#ffa265;}</style></defs><g transform="translate(-1120 -3889.023)"><path class="a" d="M35.5,0C46.872,0,59.143,4.832,65.812,13.371,70.345,19.171,71,27.265,71,35.5c0,10.47-2.475,20.13-9.894,26.815C55.024,67.8,44.636,71,35.5,71,24.285,71,12.323,67.428,5.652,59.1.95,53.231,0,43.891,0,35.5,0,21.913,4.472,9.427,15.927,3.331,20.651.816,29.481,0,35.5,0Z" transform="translate(1120 3889.023)"/><g transform="translate(631.483 3307.023)"><path class="b" d="M620.5,640.65h-4.556q0-16.24-.011-32.48a.741.741,0,0,1,.521-.8c2.345-1.069,4.672-2.178,7.013-3.256a.6.6,0,0,0,.413-.641c-.015-3.158-.009-6.317-.009-9.475h8.382q0,3.459.006,6.918c0,.024-.03.048-.076.12H626.6c0,.85.017,1.653-.008,2.454a.559.559,0,0,0,.389.609c2.367,1.091,4.722,2.208,7.092,3.292a.685.685,0,0,1,.464.745q-.018,16.256-.01,32.512h-4.556c0-2.488.026-4.977-.011-7.464a4.732,4.732,0,0,0-9.462.182C620.487,635.8,620.5,638.223,620.5,640.65Zm8.766-26.266a4.029,4.029,0,1,0-4.008,4.034A4.039,4.039,0,0,0,629.263,614.384Zm-7.243,6.869h-2.683v4.307h2.683Zm4.557,0h-2.687v4.31h2.687Zm4.552,4.32v-4.315h-2.679v4.315Z" transform="translate(-101.392)"/><path class="b" d="M500.517,772.5h11.3v24.965h-11.3Zm4.3,8.261H507.5v-3.225h-2.677Zm0,5.83H507.5v-3.225H504.82Zm0,5.83H507.5V789.2H504.82Z" transform="translate(0 -156.815)"/><path class="b" d="M791.517,797.465V772.5h11.3v24.965Zm4.3-16.7H798.5v-3.225h-2.677Zm.011,2.6v3.223h2.676v-3.223Zm2.669,9.07V789.21h-2.677v3.223Z" transform="translate(-255.648 -156.815)"/><path class="c" d="M653.493,890.62c0-2.427-.009-4.855,0-7.282a4.732,4.732,0,0,1,9.462-.182c.037,2.488.01,4.976.011,7.464h-2.733c0-2.4.009-4.8-.01-7.195a2.649,2.649,0,0,0-.221-1.052,1.951,1.951,0,0,0-2.247-1.047,1.991,1.991,0,0,0-1.528,1.962c-.009,2.444,0,4.888,0,7.331Z" transform="translate(-134.388 -249.969)"/><path class="b" d="M676.006,910.4c0-2.444-.005-4.888,0-7.331a1.991,1.991,0,0,1,1.528-1.962,1.951,1.951,0,0,1,2.247,1.047,2.649,2.649,0,0,1,.221,1.052c.019,2.4.01,4.8.01,7.195Z" transform="translate(-154.169 -269.747)"/><path class="c" d="M667.414,732.556a4.029,4.029,0,1,1-4.05-4.043A4.026,4.026,0,0,1,667.414,732.556Zm-5.321.01a1.293,1.293,0,1,0,1.28-1.314A1.294,1.294,0,0,0,662.093,732.566Z" transform="translate(-139.543 -118.172)"/><path class="c" d="M646.656,818.337v4.307h-2.683v-4.307Z" transform="translate(-126.028 -197.083)"/><path class="c" d="M684.145,818.323v4.31h-2.686v-4.31Z" transform="translate(-158.96 -197.071)"/><path class="c" d="M721.674,822.672h-2.679v-4.315h2.679Z" transform="translate(-191.936 -197.101)"/><path class="c" d="M535.948,817.172v-3.225h2.677v3.225Z" transform="translate(-31.127 -193.227)"/><path class="c" d="M535.941,865.171v-3.225h2.677v3.225Z" transform="translate(-31.12 -235.395)"/><path class="c" d="M535.938,913.17v-3.223h2.677v3.223Z" transform="translate(-31.118 -277.564)"/><path class="c" d="M826.945,817.174v-3.225h2.676v3.225Z" transform="translate(-286.772 -193.228)"/><path class="c" d="M827.034,861.917h2.676v3.223h-2.676Z" transform="translate(-286.85 -235.369)"/><path class="c" d="M829.642,913.271h-2.677v-3.223h2.677Z" transform="translate(-286.789 -277.653)"/><path class="b" d="M681.882,752.373a1.293,1.293,0,1,1,1.3,1.29A1.29,1.29,0,0,1,681.882,752.373Z" transform="translate(-159.332 -137.978)"/></g></g><!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</svg>
